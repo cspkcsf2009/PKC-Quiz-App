@@ -1,2 +1,2 @@
-# PKC-QUIZ-APP
-Website url - https://preeminent-figolla-43e7b7.netlify.app
+# Quiz-App-B.Sc.CS.SF.PKC-2023-26
+Website url - https://quiz-app-cs-pkc-2023-26.netlify.app
